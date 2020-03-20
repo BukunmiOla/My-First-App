@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="textView_hint">Enter name</string>
+    <string name="ok_string">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dept">Your department</string>
+    <string name="institution">Enter Institution</string>
+</resources>
