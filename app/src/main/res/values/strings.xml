@@ -5,4 +5,7 @@
     <string name="cancel">Cancel</string>
     <string name="dept">Your department</string>
     <string name="institution">Enter Institution</string>
+    <string name="Done">Done</string>
+    <string name="sleep">Sleep</string>
+    <string name="run">Run</string>
 </resources>
